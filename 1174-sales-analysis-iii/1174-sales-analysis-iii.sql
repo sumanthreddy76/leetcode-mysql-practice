@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+/*seen the solution 2.facing the issues while using alias selecting  the required column and while joining the 2 tables using the same column getting the ambigious error to overcome this should use alias (which im unable to and joining 2 tables using the using statement not the traditional way 4.when asked between a period of time we can use the min for starting date and max for ending date */
 
 
 select p.product_id , p.product_name 
