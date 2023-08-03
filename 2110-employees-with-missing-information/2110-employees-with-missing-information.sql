@@ -10,3 +10,4 @@ from
 as T
 where T.salary is null or T.name is null
 order by employee_id;
+/*intuition is right regarding left join and right join but doesnt know the exact logic uses subquery*/
